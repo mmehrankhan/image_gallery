@@ -1,0 +1,39 @@
+
+
+.main1{
+    width: 280px;
+    height: 280px;
+    border-radius: 140px;
+    margin: 0px auto;
+    box-shadow: 8px 8px 10px rgb(240, 182, 9);
+
+}
+.heading>h1{
+   text-align: center;
+
+    margin: 0px auto;
+}
+.main1>img{
+    width: 280px;
+    height: 280px;
+    border-radius: 140px;
+ 
+}
+.parent{
+display: flex;
+align-items: center;
+width: 600px;
+margin: auto;
+
+}
+.child>img{
+    width: 120px;
+    height: 120px;
+    border: 2px solid black;
+    
+}
+.child{
+    margin:25px auto;
+    gap: 1;
+
+}
